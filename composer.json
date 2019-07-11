@@ -1,0 +1,5 @@
+{
+    "require": {
+        "showx/phpshow": "^2.1"
+    }
+}
